@@ -1,4 +1,4 @@
-# RouteSense — Smart Multimodal Travel Intelligence System
+# ResQRail — Smart Multimodal Travel Intelligence System
 
 A complete, ready-to-run React + Vite + Tailwind CSS web application that
 predicts PNR confirmation outcomes and helps travellers discover the best
